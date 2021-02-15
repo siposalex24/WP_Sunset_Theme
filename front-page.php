@@ -184,13 +184,13 @@ get_header();
                   <svg class="contacts__icon">
                     <use xlink:href="static/images/svg/symbol/sprite.svg#mobile"></use>
                   </svg>
-                  <div class="contacts__text">123</div>
+                  <div class="contacts__text">0748973072</div>
                 </div>
                 <div class="contacts__row">
                   <svg class="contacts__icon">
                     <use xlink:href="static/images/svg/symbol/sprite.svg#skype"></use>
                   </svg>
-                  <div class="contacts__text">iap</div>
+                  <div class="contacts__text">Sipos Alex</div>
                 </div>
               </div>
             </div>
