@@ -551,7 +551,7 @@ select {
     -ms-flex-align: center;
     align-items: center;
     height: 100vh;
-    background: url(../iap_siposalex_theme/assets/images/content/banner/banner-bg.png) fixed center no-repeat;
+background: url(../iap_siposalex_theme/assets/images/content/banner/banner-bg.png) fixed center no-repeat;
     background-size: cover;
     z-index: 1
 }
